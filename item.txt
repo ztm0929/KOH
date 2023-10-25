@@ -1,0 +1,110 @@
+<ul class="clearfix herolist" id="Jlist-details">
+<li><a data-href="1111.shtml" href="#none"><img alt="铁剑" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1111.jpg" width="91"/>铁剑</a>
+</li>
+<li><a data-href="1112.shtml" href="#none"><img alt="匕首" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1112.jpg" width="91"/>匕首</a>
+</li>
+<li><a data-href="1113.shtml" href="#none"><img alt="搏击拳套" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1113.jpg" width="91"/>搏击拳套</a></li>
+<li><a data-href="1114.shtml" href="#none"><img alt="吸血之镰" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1114.jpg" width="91"/>吸血之镰</a></li>
+<li><a data-href="1116.shtml" href="#none"><img alt="雷鸣刃" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1116.jpg" width="91"/>雷鸣刃</a></li>
+<li><a data-href="1117.shtml" href="#none"><img alt="冲能拳套" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1117.jpg" width="91"/>冲能拳套</a></li>
+<li><a data-href="1121.shtml" href="#none"><img alt="风暴巨剑" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1121.jpg" width="91"/>风暴巨剑</a></li>
+<li><a data-href="1122.shtml" href="#none"><img alt="日冕" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1122.jpg" width="91"/>日冕</a>
+</li>
+<li><a data-href="1123.shtml" href="#none"><img alt="狂暴双刃" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1123.jpg" width="91"/>狂暴双刃</a></li>
+<li><a data-href="1124.shtml" href="#none"><img alt="陨星" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1124.jpg" width="91"/>陨星</a>
+</li>
+<li><a data-href="1131.shtml" href="#none"><img alt="碎星锤" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1131.jpg" width="91"/>碎星锤</a></li>
+<li><a data-href="1126.shtml" href="#none"><img alt="末世" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1126.jpg" width="91"/>末世</a>
+</li>
+<li><a data-href="1127.shtml" href="#none"><img alt="名刀·司命" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1127.jpg" width="91"/>名刀·司命</a></li>
+<li><a data-href="1128.shtml" href="#none"><img alt="冰霜长矛" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1128.jpg" width="91"/>冰霜长矛</a></li>
+<li><a data-href="1129.shtml" href="#none"><img alt="速击之枪" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1129.jpg" width="91"/>速击之枪</a></li>
+<li><a data-href="11210.shtml" href="#none"><img alt="制裁之刃" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/11210.jpg" width="91"/>制裁之刃</a></li>
+<li><a data-href="1132.shtml" href="#none"><img alt="泣血之刃" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1132.jpg" width="91"/>泣血之刃</a></li>
+<li><a data-href="1133.shtml" href="#none"><img alt="无尽战刃" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1133.jpg" width="91"/>无尽战刃</a></li>
+<li><a data-href="1134.shtml" href="#none"><img alt="宗师之力" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1134.jpg" width="91"/>宗师之力</a></li>
+<li><a data-href="1135.shtml" href="#none"><img alt="闪电匕首" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1135.jpg" width="91"/>闪电匕首</a></li>
+<li><a data-href="1136.shtml" href="#none"><img alt="影刃" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1136.jpg" width="91"/>影刃</a>
+</li>
+<li><a data-href="1137.shtml" href="#none"><img alt="暗影战斧" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1137.jpg" width="91"/>暗影战斧</a></li>
+<li><a data-href="1138.shtml" href="#none"><img alt="破军" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1138.jpg" width="91"/>破军</a>
+</li>
+<li><a data-href="11311.shtml" href="#none"><img alt="纯净苍穹" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/11311.jpg" width="91"/>纯净苍穹</a></li>
+<li><a data-href="91040.shtml" href="#none"><img alt="逐日之弓" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/91040.jpg" width="91"/>逐日之弓</a></li>
+<li><a data-href="1125.shtml" href="#none"><img alt="破魔刀" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1125.jpg" width="91"/>破魔刀</a></li>
+<li><a data-href="1154.shtml" href="#none"><img alt="穿云弓" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1154.jpg" width="91"/>穿云弓</a></li>
+<li><a data-href="1155.shtml" href="#none"><img alt="破晓" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1155.jpg" width="91"/>破晓</a>
+</li>
+<li><a data-href="1211.shtml" href="#none"><img alt="咒术典籍" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1211.jpg" width="91"/>咒术典籍</a></li>
+<li><a data-href="1212.shtml" href="#none"><img alt="蓝宝石" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1212.jpg" width="91"/>蓝宝石</a></li>
+<li><a data-href="1213.shtml" href="#none"><img alt="炼金护符" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1213.jpg" width="91"/>炼金护符</a></li>
+<li><a data-href="1214.shtml" href="#none"><img alt="圣者法典" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1214.jpg" width="91"/>圣者法典</a></li>
+<li><a data-href="1216.shtml" href="#none"><img alt="元素杖" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1216.jpg" width="91"/>元素杖</a></li>
+<li><a data-href="1221.shtml" href="#none"><img alt="大棒" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1221.jpg" width="91"/>大棒</a>
+</li>
+<li><a data-href="1229.shtml" href="#none"><img alt="破碎圣杯" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1229.jpg" width="91"/>破碎圣杯</a></li>
+<li><a data-href="1223.shtml" href="#none"><img alt="光辉之剑" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1223.jpg" width="91"/>光辉之剑</a></li>
+<li><a data-href="1224.shtml" href="#none"><img alt="魅影面罩" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1224.jpg" width="91"/>魅影面罩</a></li>
+<li><a data-href="1225.shtml" href="#none"><img alt="进化水晶" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1225.jpg" width="91"/>进化水晶</a></li>
+<li><a data-href="1222.shtml" href="#none"><img alt="血族之书" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1222.jpg" width="91"/>血族之书</a></li>
+<li><a data-href="1227.shtml" href="#none"><img alt="炽热支配者" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1227.jpg" width="91"/>炽热支配者</a></li>
+<li><a data-href="12211.shtml" href="#none"><img alt="梦魇之牙" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/12211.jpg" width="91"/>梦魇之牙</a></li>
+<li><a data-href="1231.shtml" href="#none"><img alt="虚无法杖" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1231.jpg" width="91"/>虚无法杖</a></li>
+<li><a data-href="1232.shtml" href="#none"><img alt="博学者之怒" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1232.jpg" width="91"/>博学者之怒</a></li>
+<li><a data-href="1239.shtml" href="#none"><img alt="辉月" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1239.jpg" width="91"/>辉月</a>
+</li>
+<li><a data-href="1233.shtml" href="#none"><img alt="回响之杖" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1233.jpg" width="91"/>回响之杖</a></li>
+<li><a data-href="1234.shtml" href="#none"><img alt="冰霜法杖" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1234.jpg" width="91"/>冰霜法杖</a></li>
+<li><a data-href="1235.shtml" href="#none"><img alt="痛苦面具" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1235.jpg" width="91"/>痛苦面具</a></li>
+<li><a data-href="1236.shtml" href="#none"><img alt="巫术法杖" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1236.jpg" width="91"/>巫术法杖</a></li>
+<li><a data-href="1226.shtml" href="#none"><img alt="圣杯" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1226.jpg" width="91"/>圣杯</a>
+</li>
+<li><a data-href="1237.shtml" href="#none"><img alt="时之预言" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1237.jpg" width="91"/>时之预言</a></li>
+<li><a data-href="1238.shtml" href="#none"><img alt="贤者之书" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1238.jpg" width="91"/>贤者之书</a></li>
+<li><a data-href="1240.shtml" href="#none"><img alt="噬神之书" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1240.jpg" width="91"/>噬神之书</a></li>
+<li><a data-href="1311.shtml" href="#none"><img alt="红玛瑙" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1311.jpg" width="91"/>红玛瑙</a></li>
+<li><a data-href="1312.shtml" href="#none"><img alt="布甲" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1312.jpg" width="91"/>布甲</a>
+</li>
+<li><a data-href="1313.shtml" href="#none"><img alt="抗魔披风" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1313.jpg" width="91"/>抗魔披风</a></li>
+<li><a data-href="1314.shtml" href="#none"><img alt="提神水晶" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1314.jpg" width="91"/>提神水晶</a></li>
+<li><a data-href="1321.shtml" href="#none"><img alt="力量腰带" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1321.jpg" width="91"/>力量腰带</a></li>
+<li><a data-href="1322.shtml" href="#none"><img alt="熔炼之心" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1322.jpg" width="91"/>熔炼之心</a></li>
+<li><a data-href="1323.shtml" href="#none"><img alt="神隐斗篷" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1323.jpg" width="91"/>神隐斗篷</a></li>
+<li><a data-href="1324.shtml" href="#none"><img alt="雪山圆盾" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1324.jpg" width="91"/>雪山圆盾</a></li>
+<li><a data-href="1325.shtml" href="#none"><img alt="守护者之铠" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1325.jpg" width="91"/>守护者之铠</a></li>
+<li><a data-href="1724.shtml" href="#none"><img alt="近卫荣耀" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1724.jpg" width="91"/>近卫荣耀</a></li>
+<li><a data-href="1723.shtml" href="#none"><img alt="奔狼纹章" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1723.jpg" width="91"/>奔狼纹章</a></li>
+<li><a data-href="1327.shtml" href="#none"><img alt="反伤刺甲" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1327.jpg" width="91"/>反伤刺甲</a></li>
+<li><a data-href="1328.shtml" href="#none"><img alt="血魔之怒" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1328.jpg" width="91"/>血魔之怒</a></li>
+<li><a data-href="1331.shtml" href="#none"><img alt="红莲斗篷" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1331.jpg" width="91"/>红莲斗篷</a></li>
+<li><a data-href="1332.shtml" href="#none"><img alt="霸者重装" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1332.jpg" width="91"/>霸者重装</a></li>
+<li><a data-href="1333.shtml" href="#none"><img alt="不祥征兆" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1333.jpg" width="91"/>不祥征兆</a></li>
+<li><a data-href="1334.shtml" href="#none"><img alt="不死鸟之眼" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1334.jpg" width="91"/>不死鸟之眼</a></li>
+<li><a data-href="1335.shtml" href="#none"><img alt="魔女斗篷" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1335.jpg" width="91"/>魔女斗篷</a></li>
+<li><a data-href="1336.shtml" href="#none"><img alt="极寒风暴" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1336.jpg" width="91"/>极寒风暴</a></li>
+<li><a data-href="13310.shtml" href="#none"><img alt="冰痕之握" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/13310.jpg" width="91"/>冰痕之握</a></li>
+<li><a data-href="1337.shtml" href="#none"><img alt="贤者的庇护" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1337.jpg" width="91"/>贤者的庇护</a></li>
+<li><a data-href="1338.shtml" href="#none"><img alt="暴烈之甲" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1338.jpg" width="91"/>暴烈之甲</a></li>
+<li><a data-href="1411.shtml" href="#none"><img alt="神速之靴" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1411.jpg" width="91"/>神速之靴</a></li>
+<li><a data-href="1421.shtml" href="#none"><img alt="影忍之足" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1421.jpg" width="91"/>影忍之足</a></li>
+<li><a data-href="1422.shtml" href="#none"><img alt="抵抗之靴" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1422.jpg" width="91"/>抵抗之靴</a></li>
+<li><a data-href="1423.shtml" href="#none"><img alt="冷静之靴" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1423.jpg" width="91"/>冷静之靴</a></li>
+<li><a data-href="1424.shtml" href="#none"><img alt="秘法之靴" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1424.jpg" width="91"/>秘法之靴</a></li>
+<li><a data-href="1425.shtml" href="#none"><img alt="急速战靴" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1425.jpg" width="91"/>急速战靴</a></li>
+<li><a data-href="1426.shtml" href="#none"><img alt="疾步之靴" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1426.jpg" width="91"/>疾步之靴</a></li>
+<li><a data-href="1511.shtml" href="#none"><img alt="狩猎宽刃" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1511.jpg" width="91"/>狩猎宽刃</a></li>
+<li><a data-href="1521.shtml" href="#none"><img alt="游击弯刀" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1521.jpg" width="91"/>游击弯刀</a></li>
+<li><a data-href="1522.shtml" href="#none"><img alt="巡守利斧" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1522.jpg" width="91"/>巡守利斧</a></li>
+<li><a data-href="1523.shtml" href="#none"><img alt="追击刀锋" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1523.jpg" width="91"/>追击刀锋</a></li>
+<li><a data-href="1531.shtml" href="#none"><img alt="符文大剑" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1531.jpg" width="91"/>符文大剑</a></li>
+<li><a data-href="1532.shtml" href="#none"><img alt="巨人之握" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1532.jpg" width="91"/>巨人之握</a></li>
+<li><a data-href="1533.shtml" href="#none"><img alt="贪婪之噬" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1533.jpg" width="91"/>贪婪之噬</a></li>
+<li><a data-href="1714.shtml" href="#none"><img alt="鼓舞之盾" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1714.jpg" width="91"/>鼓舞之盾</a></li>
+<li><a data-href="1713.shtml" href="#none"><img alt="风灵纹章" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1713.jpg" width="91"/>风灵纹章</a></li>
+<li><a data-href="1722.shtml" href="#none"><img alt="救赎之翼" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1722.jpg" width="91"/>救赎之翼</a></li>
+<li><a data-href="1712.shtml" href="#none"><img alt="风之轻语" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1712.jpg" width="91"/>风之轻语</a></li>
+<li><a data-href="1721.shtml" href="#none"><img alt="极影" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1721.jpg" width="91"/>极影</a>
+</li>
+<li><a data-href="1711.shtml" href="#none"><img alt="凤鸣指环" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1711.jpg" width="91"/>凤鸣指环</a></li>
+<li><a data-href="1701.shtml" href="#none"><img alt="学识宝石" height="91" src="//game.gtimg.cn/images/yxzj/img201606/itemimg/1701.jpg" width="91"/>学识宝石</a></li>
+</ul>
